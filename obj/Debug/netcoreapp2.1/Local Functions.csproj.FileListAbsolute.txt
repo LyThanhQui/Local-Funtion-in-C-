@@ -1,0 +1,11 @@
+H:\demo dotnettutorials\3. C# 7.X new Features\Local Functions\Local Functions\bin\Debug\netcoreapp2.1\Local Functions.deps.json
+H:\demo dotnettutorials\3. C# 7.X new Features\Local Functions\Local Functions\bin\Debug\netcoreapp2.1\Local Functions.runtimeconfig.json
+H:\demo dotnettutorials\3. C# 7.X new Features\Local Functions\Local Functions\bin\Debug\netcoreapp2.1\Local Functions.runtimeconfig.dev.json
+H:\demo dotnettutorials\3. C# 7.X new Features\Local Functions\Local Functions\bin\Debug\netcoreapp2.1\Local Functions.dll
+H:\demo dotnettutorials\3. C# 7.X new Features\Local Functions\Local Functions\bin\Debug\netcoreapp2.1\Local Functions.pdb
+H:\demo dotnettutorials\3. C# 7.X new Features\Local Functions\Local Functions\obj\Debug\netcoreapp2.1\Local Functions.csprojAssemblyReference.cache
+H:\demo dotnettutorials\3. C# 7.X new Features\Local Functions\Local Functions\obj\Debug\netcoreapp2.1\Local Functions.csproj.CoreCompileInputs.cache
+H:\demo dotnettutorials\3. C# 7.X new Features\Local Functions\Local Functions\obj\Debug\netcoreapp2.1\Local Functions.AssemblyInfoInputs.cache
+H:\demo dotnettutorials\3. C# 7.X new Features\Local Functions\Local Functions\obj\Debug\netcoreapp2.1\Local Functions.AssemblyInfo.cs
+H:\demo dotnettutorials\3. C# 7.X new Features\Local Functions\Local Functions\obj\Debug\netcoreapp2.1\Local Functions.dll
+H:\demo dotnettutorials\3. C# 7.X new Features\Local Functions\Local Functions\obj\Debug\netcoreapp2.1\Local Functions.pdb
